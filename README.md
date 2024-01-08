@@ -1,3 +1,4 @@
 # Md-Razi-Khan
 This is my first repository.
-Author:-  Md Razi Khan
+<br>
+<u>Author</u>:-  Md Razi Khan
